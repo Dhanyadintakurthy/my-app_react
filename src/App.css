@@ -1,0 +1,25 @@
+.username{
+  font-family: cursive;
+  text-align: center;
+}
+.userpic{
+  height: 100px;
+  width:100px;
+  border-radius: 50%;
+  margin-left: 100mm;
+}
+.moviecontainer{
+  display: flex;
+  flex-direction: row;
+  margin: 15mm;
+  font-family: cursive;
+}
+img.moviepic {
+  height: 100mm;
+  width: 150mm;
+  border-radius: 2rem;
+  margin: 10mm;
+}
+body{
+  background-color:silver;
+}
